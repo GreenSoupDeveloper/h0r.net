@@ -14,6 +14,9 @@
 #include "drivers/filesystem/fat.h"
 #include "util/logger.h"
 #include "util/math.h"
+#include "util/VGA.h"
+#include "util/ACPI.h"
+#include "util/PIT.h"
 
 #define VERSION 1
 
